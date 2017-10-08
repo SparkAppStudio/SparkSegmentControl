@@ -12,6 +12,7 @@
 		D14588C81F8ADBED00AD2A82 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D14588C61F8ADBED00AD2A82 /* Main.storyboard */; };
 		D14588CA1F8ADBED00AD2A82 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D14588C91F8ADBED00AD2A82 /* Assets.xcassets */; };
 		D14588CD1F8ADBED00AD2A82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D14588CB1F8ADBED00AD2A82 /* LaunchScreen.storyboard */; };
+		D14588D51F8ADCDE00AD2A82 /* DesignableSegmentControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14588D41F8ADCDE00AD2A82 /* DesignableSegmentControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D14588C91F8ADBED00AD2A82 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D14588CC1F8ADBED00AD2A82 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D14588CE1F8ADBED00AD2A82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D14588D41F8ADCDE00AD2A82 /* DesignableSegmentControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignableSegmentControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				D14588C21F8ADBED00AD2A82 /* AppDelegate.swift */,
 				D14588C41F8ADBED00AD2A82 /* ViewController.swift */,
 				D14588C61F8ADBED00AD2A82 /* Main.storyboard */,
+				D14588D41F8ADCDE00AD2A82 /* DesignableSegmentControl.swift */,
 				D14588C91F8ADBED00AD2A82 /* Assets.xcassets */,
 				D14588CB1F8ADBED00AD2A82 /* LaunchScreen.storyboard */,
 				D14588CE1F8ADBED00AD2A82 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				D14588C51F8ADBED00AD2A82 /* ViewController.swift in Sources */,
 				D14588C31F8ADBED00AD2A82 /* AppDelegate.swift in Sources */,
+				D14588D51F8ADCDE00AD2A82 /* DesignableSegmentControl.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
